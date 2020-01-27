@@ -1,4 +1,4 @@
-#Booking API
+# Booking API
 
 Provides convenient endpoints to check availability checking and to manage reservations 
 
